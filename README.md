@@ -4,6 +4,17 @@
 </p>
 <br>
 
+# Fork Information
+
+This fork is a _very_ small modification to the PolyMC Minecraft launcher that allows for offline accounts to be used without an existing premium account added to the launcher.
+
+Some of the reasons I made this:
+- Microsoft's decisions over Minecraft's account system which now forces players to create a Microsoft account to continue playing and most likely have their information collected then sold.
+- Mojang's account moderation / deletion for wrongthink or not supporting the newest mental illness.
+- Mojang's recent addition of Snooper to 1.18, an analytics reporter that Mojang promises to not misuse but probably will.
+
+# Regular README Contents
+
 PolyMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
 This is a **fork** of the MultiMC Launcher and not endorsed by MultiMC. The PolyMC community felt that the maintainer was not acting in the spirit of Free Software so this fork was made.
