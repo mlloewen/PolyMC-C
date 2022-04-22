@@ -13,6 +13,10 @@ Some of the reasons I made this:
 - Mojang's account moderation / deletion for wrongthink or not supporting the newest mental illness.
 - Mojang's recent addition of Snooper to 1.18, an analytics reporter that Mojang promises to not misuse but probably will.
 
+Please keep in mind that I do not support piracy because piracy is illegal and not allowed on GitHub. I just made this for those who own a premium account but do not want to authenticate with Microsoft servers to play the game.
+
+Also know that because you are using an offline account, no server can be joined unless it is modified by the server owner to skip player verification. The most popular servers are not going to be playable.
+
 # Regular README Contents
 
 PolyMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
